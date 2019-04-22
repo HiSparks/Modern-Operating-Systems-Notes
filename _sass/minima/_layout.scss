@@ -178,6 +178,10 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+
+  p {
+    text-indent: $base-font-size * 3;
+  }
 }
 
 .page-heading {
