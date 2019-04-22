@@ -17,7 +17,7 @@ title: Современные операционные системы (конс�
 email: the.mark.fender@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Современные операционные системы (конспект). Авторы книги Э. Таненбаум, Х. Бос
-baseurl: "/Modern-Operating-Systems-Notes" # the subpath of your site, e.g. /blog
+# baseurl: "/Modern-Operating-Systems-Notes" # the subpath of your site, e.g. /blog
 url: "mdlEducation.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
