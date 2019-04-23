@@ -26,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  overflow-x: hidden;
 }
 
 
@@ -97,7 +98,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
-
+h1 {
+  font-size: 1.7em;
+}
 
 /**
  * Links
